@@ -1,0 +1,3 @@
+- name: GitHub Pages action
+uses: peaceiris/actions-gh-pages@v3.9.0
+
