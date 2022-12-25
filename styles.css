@@ -424,3 +424,19 @@ th {
   box-shadow: 20px 20px gray;
   transform: translateY(-4px);
 }
+.vsubmath {
+  width: 300px;
+  margin: 15px;
+  border-radius: 20px;
+  transition: 0.4s;
+}
+.vsubmath:hover {
+  filter: blur(5px);
+}
+.vsubtextmath {
+  top: 28%;
+  right: 87%;
+  position: absolute;
+  font-size: larger;
+  color: red;
+}
